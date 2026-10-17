@@ -31,7 +31,7 @@ A literature review is only as good as its search strategy. By defining the quer
 
 ## License
 
-MIT (to be added).
+MIT, see [LICENSE](LICENSE).
 
 ## Author
 
